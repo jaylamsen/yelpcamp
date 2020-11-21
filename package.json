@@ -19,7 +19,7 @@
     "locus": "^2.0.1",
     "method-override": "^2.3.9",
     "moment": "^2.18.1",
-    "mongoose": "^4.10.8",
+    "mongoose": ">=5.7.5",
     "nodemailer": "^4.0.1",
     "nodemon": "^1.11.0",
     "passport": "^0.3.2",
